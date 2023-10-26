@@ -1,0 +1,125 @@
+
+
+body {
+    background: #ddf1f9;
+    
+   
+}
+
+.agrupar {
+    width: 960px;
+    background: white;
+    border: 1px solid black;
+    margin: 15px auto;
+    padding: 20px;
+}
+
+
+h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    color: aquamarine;
+    
+   
+}
+
+h2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: lightcoral;
+    text-decoration: none;
+
+}
+
+h3 {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: lightcoral
+    
+    
+}
+
+time { 
+    color: #9999
+}
+ 
+.tiempo {
+    text-align: right
+}
+
+.partes   {
+    color: red;
+}
+
+.repro {
+    color: goldenrod;
+    
+    
+}
+
+.form {
+    color: aquamarine;   
+}
+
+
+ 
+.pie {
+    background: #2d3436;
+    padding: 20px;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+table,tr,td {
+    border: 1px solid #333;
+    border-collapse: collapse ;
+
+ }
+
+
+
+    
+img {
+        width: 400px;
+        position: absolute;
+            
+}
+
+.imagen {
+        width: 500px;
+        position: relative;
+        right: 5px;
+}
+
+ a {
+        text-decoration: none;
+ }
+ 
+fieldset {
+        width: 50px;    
+ }
+
+
+    @media only screen and (min-width:400px){
+      
+        .cell{
+            left: 600px;
+            top: 150px;
+        }
+
+      
+       
+       
+       
+       }
+
+       
+
+   
+
+   
+
